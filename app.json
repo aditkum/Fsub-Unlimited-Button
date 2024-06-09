@@ -49,7 +49,7 @@
       "description": "Masukan ID dari Channel Atau Group Untuk Wajib Subscribenya. Kosongi kalau tidak ingin diisi. Untuk FORCE_SUB2, FORCE_SUB3, dst isi sendiri env nya",
       "required": false
     },
-"FORCE_SUB4": {
+    "FORCE_SUB4": {
       "description": "Masukan ID dari Channel Atau Group Untuk Wajib Subscribenya. Kosongi kalau tidak ingin diisi. Untuk FORCE_SUB2, FORCE_SUB3, dst isi sendiri env nya",
       "required": false
     },
